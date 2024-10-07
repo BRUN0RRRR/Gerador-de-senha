@@ -1,0 +1,16 @@
+C:\Users\bruno\source\repos\Gerador de Senha\Gerador de Senha\bin\Debug\net8.0-windows\Gerador de Senha.exe
+C:\Users\bruno\source\repos\Gerador de Senha\Gerador de Senha\bin\Debug\net8.0-windows\Gerador de Senha.deps.json
+C:\Users\bruno\source\repos\Gerador de Senha\Gerador de Senha\bin\Debug\net8.0-windows\Gerador de Senha.runtimeconfig.json
+C:\Users\bruno\source\repos\Gerador de Senha\Gerador de Senha\bin\Debug\net8.0-windows\Gerador de Senha.dll
+C:\Users\bruno\source\repos\Gerador de Senha\Gerador de Senha\bin\Debug\net8.0-windows\Gerador de Senha.pdb
+C:\Users\bruno\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net8.0-windows\Gerador_de_Senha.Form1.resources
+C:\Users\bruno\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net8.0-windows\Gerador de Senha.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net8.0-windows\Gerador de Senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net8.0-windows\Gerador de Senha.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net8.0-windows\Gerador de Senha.AssemblyInfo.cs
+C:\Users\bruno\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net8.0-windows\Gerador de Senha.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net8.0-windows\Gerador de Senha.dll
+C:\Users\bruno\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net8.0-windows\refint\Gerador de Senha.dll
+C:\Users\bruno\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net8.0-windows\Gerador de Senha.pdb
+C:\Users\bruno\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net8.0-windows\Gerador de Senha.genruntimeconfig.cache
+C:\Users\bruno\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net8.0-windows\ref\Gerador de Senha.dll
